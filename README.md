@@ -44,3 +44,14 @@ Here are some initial insights derived from the analysis:
 - **Explainability:** Consider techniques like SHAP values for explaining model predictions, adding transparency to the decision-making process.
 
 - **Scaling:** Assess the scalability of the solution, especially if the dataset grows significantly. Ensure the code and model perform efficiently.
+
+
+## Acknowldgements:
+
+# Thank you to everyone that helped us out on this project.
+- Tutor:
+  - Limei Hou
+- TA's:
+  - Randy & Sam
+- Instructor:
+  - Hunter Hollis
