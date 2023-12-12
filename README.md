@@ -46,7 +46,7 @@ Here are some initial insights derived from the analysis:
 - **Scaling:** Assess the scalability of the solution, especially if the dataset grows significantly. Ensure the code and model perform efficiently.
 
 
-## Acknowldgements:
+## Acknowledgements:
 
 ### Thank you to everyone that helped us out on this project.
 - Tutor:
