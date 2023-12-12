@@ -48,7 +48,7 @@ Here are some initial insights derived from the analysis:
 
 ## Acknowldgements:
 
-# Thank you to everyone that helped us out on this project.
+### Thank you to everyone that helped us out on this project.
 - Tutor:
   - Limei Hou
 - TA's:
