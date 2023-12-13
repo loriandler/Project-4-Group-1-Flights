@@ -42,7 +42,7 @@ To find the Count of NaN in each column of the DataFrame [here](https://note.nkm
   - We used the Standard Scaler, the LogisticRegression from sckit-learn and train_test_split in our combined 2022 & 2023 Dataframe.
   - This generated the confusion matrix and classification reports
 - We also ran a Random Forest Model
-  - We used the same target and features and received the same 100% accuracy on this model as the Logistic Regression Model.   
+  - We used the same target and features and received the same 98% accuracy on this model as the Logistic Regression Model.   
 
 ## Conclusion
  - This type of model incorporteed into existing systems for automated decision support could streamline processes for flight scheduling, staffing and passenger communications and offer valuable efficiency gains for the airlines.
