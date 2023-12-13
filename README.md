@@ -13,6 +13,8 @@ The project relies on the following dataset files:
 
 To merge and process the data, we referred to the [GeeksforGeeks guide on merging two PySpark DataFrames](https://www.geeksforgeeks.org/merge-two-dataframes-in-pyspark/).
 
+To find the Count of NaN in each column of the DataFrame [here](https://note.nkmk.me/en/python-pandas-nan-judge-count/).
+
 ## Visualizations
 - Our tableau files are here: https://public.tableau.com/app/profile/jacob.anderson2507/viz/Project4BothYearsVisualizations/UseThisStory?publish=yes
 - Our visualizations include:
