@@ -37,7 +37,7 @@ To find the Count of NaN in each column of the DataFrame [here](https://note.nkm
 ### Machine Learning / Modeling
 - For the machine learning model, we adopted a supervised learning approach, leveraging the fact that we had labeled data indicating whether flights were canceled.
 - We assigned the target (y) to the CANCELLED column
-- For our features (X), we used CANCELLATION_CODE, AIRLINE_CODE, ORIGIN, ORIGIN_CITY, DEST, DEST_CITY and FL_DATE
+- For our features (X), we used DOT_CODE, FL_NUMBER, CRS_DEP_TIME, CRS_ARR_TIME, DIVERTED, DISTANCE, FL_YEAR, FL_MONTH, FL_DAY
 - We ran a Logistic Regression Model
   - We used the Standard Scaler, the LogisticRegression from sckit-learn and train_test_split in our combined 2022 & 2023 Dataframe.
   - This generated the confusion matrix and classification reports
