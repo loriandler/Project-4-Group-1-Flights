@@ -19,6 +19,12 @@ To merge and process the data, we referred to the [GeeksforGeeks guide on mergin
 
 To find the Count of NaN in each column of the DataFrame [here](https://note.nkmk.me/en/python-pandas-nan-judge-count/).
 
+## Initial Insights
+- **Cancellation Frequency:** Analyzed the overall frequency of flight cancellations to understand the distribution.
+- **Correlation Analysis:** Explored correlations between different features and the likelihood of flight cancellations.
+- **Time Analysis:** Investigated whether there are specific times of the day, days of the week, or months with higher cancellation rates.
+
+
 ## Visualizations
 - Our tableau files are here: https://public.tableau.com/app/profile/jacob.anderson2507/viz/Project4BothYearsVisualizations/UseThisStory?publish=yes
 - Our visualizations include:
@@ -60,6 +66,11 @@ To find the Count of NaN in each column of the DataFrame [here](https://note.nkm
    - Improving our Tableau map
    - Bringing in data from other years
    - Bringing in a wider variety of data for the model
+ - Future Work
+   - **Model Optimization:** Document the optimization process, including iterative changes made to the model and their impact on performance. Consider using tools like MLflow to track parameters and metrics during training.
+   - **Visualization:** Enhance the project with visualizations to better understand data patterns, model predictions, and evaluation metrics.
+   - **Explainability:** Consider techniques like SHAP values for explaining model predictions, adding transparency to the decision-making process.
+   - **Scaling:** Assess the scalability of the solution, especially if the dataset grows significantly. Ensure the code and model perform efficiently.
 
 ## Acknowledgements:
 
@@ -71,21 +82,3 @@ To find the Count of NaN in each column of the DataFrame [here](https://note.nkm
 - Instructor:
   - Hunter Hollis
 
-
-Here are some initial insights derived from the analysis:
-
-- **Cancellation Frequency:** Analyzed the overall frequency of flight cancellations to understand the distribution.
-
-- **Correlation Analysis:** Explored correlations between different features and the likelihood of flight cancellations.
-
-- **Time Analysis:** Investigated whether there are specific times of the day, days of the week, or months with higher cancellation rates.
-
-### Future Work
-
-- **Model Optimization:** Document the optimization process, including iterative changes made to the model and their impact on performance. Consider using tools like MLflow to track parameters and metrics during training.
-
-- **Visualization:** Enhance the project with visualizations to better understand data patterns, model predictions, and evaluation metrics.
-
-- **Explainability:** Consider techniques like SHAP values for explaining model predictions, adding transparency to the decision-making process.
-
-- **Scaling:** Assess the scalability of the solution, especially if the dataset grows significantly. Ensure the code and model perform efficiently.
