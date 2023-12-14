@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project aims to develop and train a machine learning model to predict flight cancellations in the United States. The dataset used for this project spans the years 2022 and 2023 and is sourced from [Kaggle](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023). Due to the large file sizes, the dataset files are not included in this repository. You can access the dataset [here](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023).
+This project aims to develop and train a machine learning model to predict flight cancellations in the United States. The dataset used for this project spans the years 2022 and 2023 and is sourced from [Kaggle](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023). Due to the large file sizes, the dataset files are not included in this repository. You can access the dataset [here](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023). <br>
+** (as of 12/11/2023) Since we pulled down the data, the kaggle site was updated and there are no longer individual .csv files for 2022 or 2023 **
+
 
 ## Data Source
 
